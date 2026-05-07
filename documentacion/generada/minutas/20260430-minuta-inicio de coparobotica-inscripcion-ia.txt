@@ -1,0 +1,100 @@
+Copa Robotica 2026
+jue, 30 abr 2026
+
+Resumen:
+
+La reunión tuvo como propósito coordinar la inscripción y la habilitación de equipos para la Copa Robótica 2026, revisar la documentación disponible y determinar por qué varios equipos aparecen en estado "pendiente" en la plataforma. Se presentó la estructura de documentación en un repositorio público en la nube que incluirá listas de alumnos y docentes, minutas estandarizadas y se acordó revisar videos y documentación de competencias pasadas; además se confirmó que las grabaciones de las reuniones comenzarán a registrarse formalmente a partir del cuarto encuentro.
+
+El equipo comprobó accesos a la plataforma y al correo de notificaciones, exploró el dashboard de back office para identificar la columna de estado y las opciones de edición de perfiles, y constató que aunque los estudiantes subieron autorizaciones y datos, la organización debe validar manualmente la documentación, por lo que los estados permanecen como "pendiente" hasta esa verificación. Gabriel explicó que cada equipo se habilita de forma independiente y señaló que el equipo 48 permanece bloqueado por la ausencia de la autorización de Kevin Manuel Mingafe, mientras que otros cuatro o cinco equipos podrán avanzar una vez completen requisitos. Se acordó copiar explicaciones en la minuta y ejecutar al menos un caso de prueba para pasar un equipo de pendiente a completado.
+
+
+Capítulos y Temas:
+
+Control de asistencia y apertura
+Se realizó el pase de lista y la identificación de invitados y conectados, detectando faltantes en la nómina de participantes y esperando la conexión de Ravaneli. Gabriel explicó que esperaría hasta el minuto 15 para empezar formalmente y que intentaría ajustar audio y conteo de presentes antes de iniciar la sesión de trabajo.
+* Gabriel Casas actúa como administrador que verifica estados pendientes en la plataforma y comparte la vista de cada equipo.
+* Las reuniones se empezarán a grabar oficialmente desde la cuarta sesión para dejar registro.
+
+Estado de inscripción y visualización de la plataforma
+Se explicó que el desafío principal es lograr que todos los equipos se inscriban para completar la fase 1 y que el administrador (Gabriel) utiliza la plataforma para ver el estado de cada equipo y los pendientes. Gabriel mostró ejemplos concretos de equipos con estado "pendiente" y mencionó mensajes directos para presionar a quienes faltan completar datos, como en el caso de Giraldo y Carolina Cantelli.
+* La prioridad inmediata es que todos los equipos completen su inscripción para pasar a la fase 1.
+
+Repositorio y documentación del proyecto
+Se presentó la existencia de un repositorio en la nube para almacenar documentación generada y obtenida, con ventajas de control de accesos y visibilidad pública para el grupo. Se detallaron ítems que se alojarán allí: pasos de inscripción, avances del proyecto, listas de alumnos y docentes, asistencia y esquipos por colores, y se explicó que cada reunión generará una minuta con formato estándar.
+* Se dispone un repositorio público en la nube para centralizar documentación, listas y minutas.
+
+Tareas, minutas y uso de inteligencia artificial
+Se acordó que las minutas se generarán a partir de un formato estándar y que se probará la inteligencia artificial para completar datos de la minuta diaria. Se detectó que la actividad de revisar videos y documentación de competencias pasadas no se completó y quedó asignada para la próxima reunión; además se confirmó que a partir de la cuarta reunión se comenzarán a grabar las sesiones.
+* Las minutas de reunión tendrán un formato estándar y la inteligencia artificial se probará para facilitar su generación.
+* La tarea de revisar videos y materiales de competencias anteriores quedó pendiente para la próxima reunión.
+
+Comprobación de correos y acceso a la plataforma
+Se verificó si los participantes recibieron correos con instrucciones o notificaciones y se confirmó que varios sólo habían recibido el correo de inscripción y un código de acceso. Gabriel intentó acceder y compartir pantalla para mostrar la interfaz, y los participantes reportaron no haber recibido más mensajes que indiquen faltantes.
+* Los participantes sólo recibieron el correo de inscripción y un código, sin notificaciones adicionales que expliquen el estado pendiente.
+
+Navegación inicial de la plataforma y opciones visibles
+Se recorrió la vista de bienvenida y la interfaz de la plataforma para ubicar la sección de equipos y la columna de estado, y se discutió la posibilidad de admitir accesos pendientes desde la lista de miembros. Gabriel intentó ampliar la pantalla y revisar elementos de interfaz sin poder visualizar inmediatamente el detalle faltante.
+
+Registro de asistentes y gestión de entradas en la sala
+Gabriel repasó la lista de presentes, confirmó la incorporación de participantes nuevos como Trinidad y Matías, y coordinó la marca de asistencia para dejar constancia de quiénes están conectados. Se mencionó el chat y la presencia de un invitado y se aseguró que, si se desconectan, volverían a entrar con el mismo enlace.
+* Se verificó la lista de presentes y se incorporaron nuevos asistentes en la sala virtual para completar la asistencia registrada.
+
+Objetivo de pasar equipos de "pendiente" a "completado" y uso de IA
+Se estableció explícitamente que el objetivo principal es mover equipos del estado pendiente a completado y se consultó a la inteligencia artificial de la plataforma sobre posibles causas, obteniendo la hipótesis de que falta algún requisito o validación por parte de la organización. Se seleccionó un correo de ejemplo de un equipo para intentar identificar faltantes y comenzar una prueba práctica.
+
+Exploración del dashboard y detalle de requisitos faltantes
+En el back office se identificó la columna de estado y la instrucción de hacer clic derecho sobre el nombre para ver detalles, y se inspeccionó el perfil de un alumno para ver qué campos faltaban. Se confirmó que los requisitos para completar el estado incluyen datos de domicilio, aceptación de términos/políticas y la carga de autorización de uso de imagen.
+* El dashboard del back office muestra una columna de estado y opciones de detalle que permiten revisar datos faltantes en cada alumno.
+* Para que el estado cambie a "completado" cada alumno debe completar domicilio, aceptar términos y políticas y subir la autorización de uso de imagen.
+
+Validación por parte de la organización y registro en el chat/minuta
+Los participantes informaron que la documentación puede aparecer como "en revisión" porque la organización de la Copa aún debe validar las autorizaciones, manteniéndose el estado como pendiente mientras realizan esa revisión. Se acordó copiar el texto explicativo al chat y trasladarlo a la minuta, y Gabriel inició los pasos para pasar un caso de pendiente a completado como prueba.
+* La organización de la Copa Robótica realiza una revisión manual de las autorizaciones, por lo que el estado puede permanecer en revisión aun cuando los documentos estén subidos.
+* Se decidió copiar el texto explicativo al chat y pasarlo a la minuta para dejar registro de las instrucciones y el estado actual.
+* Gabriel Casas iniciará los pasos para intentar pasar al menos un equipo del estado pendiente a completado como prueba práctica.
+
+Estado de habilitación por documentación pendiente
+Se revisó que la falta de documentación de un integrante afecta únicamente al equipo al que pertenece, y no bloquea a los demás equipos de la institución. Gabriel verificó que el equipo 48 permanecerá en estado pendiente hasta que Kevin Manuel Mingafe complete su perfil y señaló que otros equipos pueden avanzar si cumplen sus requisitos.
+* Hubo confusión sobre la identidad institucional en la plataforma entre Inaxiata y el Instituto Nacional de Educación Civil.
+* La falta de documentación de un alumno no bloquea a la institución; los equipos funcionan como unidades independientes y otros equipos pueden habilitarse individualmente.
+* La falta de autorización de un integrante mantiene al equipo 48 en estado pendiente hasta que complete su perfil.
+* Gabriel verificó y comunicó que varios equipos (cuatro o cinco) están en condición de avanzar si cumplen requisitos propios.
+
+Identidad institucional y comunicación de la plataforma
+Gabriel explicó discrepancias en la afiliación mostrada en la plataforma (Inaxiata versus Instituto Nacional de Educación Civil) y afirmó que copiaría la explicación en la minuta. También mencionó que consultó la inteligencia artificial de la plataforma para entender por qué aparecían equipos en estado pendiente y compartió la respuesta en los mensajes de la plataforma.
+* Gabriel registró que copiaría la explicación en la minuta y consultó la inteligencia artificial de la plataforma para aclarar el estado pendiente.
+
+Problemas técnicos y cierre de la reunión
+La sesión presentó fallos de audio y posibles bloqueos del profesor; varios participantes señalaron que el micrófono del profesor estaba silenciado o la conexión tildada. Se acordó finalizar la llamada y generar una nueva reunión ya que no podían usar el mismo enlace.
+* Problemas técnicos con el micrófono o la conexión del profesor interrumpieron la reunión y se concluyó que se debe generar un nuevo enlace para continuar.
+
+
+Puntos de Acción:
+
+* Equipos participantes: Completar la inscripción en la plataforma para pasar a la fase 1
+* Gabriel Casas: Publicar y mantener el repositorio en la nube con la documentación, listas y minutas
+* Participantes que asistieron: Ver videos y documentación de competencias pasadas antes de la próxima reunión
+* Quiro_Ruth: Copiar el texto explicativo sobre el estado pendiente en el chat
+* Gabriel Casas: Pasar el texto copiado a la minuta
+* Gabriel Casas: Iniciar los pasos para pasar el estado pendiente a completado en al menos un equipo como caso de prueba
+* Profesor: Solicitar a Kevin Manuel Mingafe que complete su perfil y documentación para habilitar el equipo 48
+* Gabriel Casas: Copiar la explicación sobre estados pendientes en la minuta
+* Profesor: Generar una nueva reunión con un enlace distinto para continuar la sesión
+* Gabriel Casas: Empezar a grabar las reuniones a partir de la cuarta sesión
+
+
+Preguntas clave:
+
+* ¿Hasta ahí me van siguiendo?
+* ¿Alguien pudo ver videos de competencias pasadas para analizar lo que hicieron los ganadores?
+* ¿Recibiste algún mail que explique qué está faltando?
+* ¿Tenemos permiso para compartir pantalla?
+* ¿Ustedes completaron la parte que requiere la organización habilitar lo enviado por los equipos? (¿La organización debe habilitar?)
+* ¿Están todos los integrantes del grupo registradas y con autorización?
+* ¿Qué identidad aparece en la plataforma para la copa robótica (Inaxiata o Instituto)?
+* ¿Por qué está el equipo en estado pendiente según la plataforma?
+
+
+Bloc de notas:
+
+* No hay notas
